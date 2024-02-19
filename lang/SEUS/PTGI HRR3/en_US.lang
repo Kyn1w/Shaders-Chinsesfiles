@@ -1,0 +1,118 @@
+option.VARIABLE_PENUMBRA_SHADOWS=Variable Penumbra Shadows
+option.shadowDistance=Shadow Distance
+
+option.SUNLIGHT_BRIGHTNESS=Sunlight Intensity
+option.TORCHLIGHT_BRIGHTNESS=Torchlight Brightness
+option.TORCHLIGHT_COLOR_TEMPERATURE=Torchlight Color Temp
+option.CANDLELIGHT_COLOR_TEMPERATURE=Candlelight Color Temp
+option.HELD_LIGHT=Dynamic Held Light
+
+
+option.GODRAYS=Atmospheric Godrays
+option.CUMULUS_CLOUDS=Cumulus Clouds
+option.CIRRUS_CLOUDS=Cirrus Clouds
+option.CLOUDS_BLOCKY=Blocky Clouds
+option.CLOUDS_IN_REFLECTIONS=Clouds in Reflections
+option.CLOUDS_IN_GI=Clouds in GI
+
+
+
+option.WATER_PARALLAX=Water Parallax
+option.PARALLAX=Parallax Occlusion Mapping
+option.SMOOTH_PARALLAX=Smooth Parallax Surface
+option.WATER_FOG_DENSITY=Water Fog Density
+option.TEXTURE_RESOLUTION=Texture Resolution
+option.FORCE_WET_EFFECT=Rain Wet Effect
+option.PHYSICALLY_BASED_MAX_ROUGHNESS=Physically Based Max Roughness
+option.SPEC_CHANNEL_SMOOTHNESS=Specular Tex Smoothness
+option.SPEC_CHANNEL_METALNESS=Specular Tex Metalness
+option.SPEC_SMOOTHNESS_AS_ROUGHNESS=Smoothness as Roughness
+option.TEXTURE_LOD_BIAS=Texture LOD Bias
+option.ANISOTROPIC_LOD_BIAS=Anisotropic LOD Bias
+value.ANISOTROPIC_LOD_BIAS.0=Off
+value.ANISOTROPIC_LOD_BIAS.1=On
+option.RAIN_SPLASH_EFFECT=Rain Splash Effect
+option.WET_CAVE_EFFECT=Wet Caves Effect
+
+
+option.DIFFUSE_TRACE_LENGTH=Diffuse GI Trace Length
+option.REDUCED_SECONDARY_GI_RANGE=Reduced Secondary GI Range
+value.REDUCED_SECONDARY_GI_RANGE.0=Off
+value.REDUCED_SECONDARY_GI_RANGE.1=On
+
+option.GI_RESPONSIVENESS=GI Responsiveness
+option.GI_SCREEN_SPACE_TRACING=Screen-Space GI Tracing
+option.GI_FILTER_QUALITY=GI Filter Quality
+value.GI_FILTER_QUALITY.0=Low
+value.GI_FILTER_QUALITY.1=High
+
+option.GI_LIGHT_BLOCK_INTENSITY=Block Light Intensity
+option.GI_LIGHT_TORCH_INTENSITY=Torch Light Intensity
+
+option.GI_SIMPLE_SKY_TERM=Simpler GI Sky Model
+
+
+option.FULL_RT_REFLECTIONS=Full Raytrace Reflections
+option.REFLECTION_TRACE_LENGTH=Reflection Trace Length
+option.REFLECTION_SCREEN_SPACE_TRACING=Screen-Space Reflection Tracing
+
+
+option.GI_SECONDARY_SAMPLES=Secondary GI Samples
+option.LIGHT_LEAK_FIX=Light Leak Fix
+option.RAYTRACE_GEOMETRY_QUALITY=Geometry Trace Quality
+option.GI_LEAF_TRANSPARENCY=GI Leaf Transparency
+
+option.GI_RESPONSIVENESS=GI Responsiveness
+value.GI_RESPONSIVENESS.8=High
+value.GI_RESPONSIVENESS.16=Medium
+value.GI_RESPONSIVENESS.32=Low
+
+
+option.GLOWING_LAPIS_LAZULI_BLOCK=Glowing Lapis Lazuli Block
+option.GLOWING_REDSTONE_BLOCK=Glowing Redstone Block
+option.GLOWING_EMERALD_BLOCK=Glowing Emerald Block
+
+option.TONEMAP_CURVE=Tonemapping Curve
+option.EXPOSURE=Exposure
+option.GAMMA=Gamma
+option.BLACK_DEPTH=Black Depth
+option.SATURATION=Saturation
+option.TONEMAP_OPERATOR=Tonemap Operator
+option.MOTION_BLUR=Motion Blur
+option.MOTION_BLUR_HQ=Motion Blur HQ
+option.MOTION_BLUR_INTENSITY=Motion Blur Intensity
+option.TONEMAP_STRENGTH=Tonemap Curve
+option.BLOOM_AMOUNT=Bloom Strength
+option.POST_SHARPENING=Post Sharpening
+
+option.FINAL_FXAA=FXAA
+value.FINAL_FXAA.0=Off
+value.FINAL_FXAA.1=On
+option.PIXEL_LOOK=Pixel Look
+value.PIXEL_LOOK.0=Sharp
+value.PIXEL_LOOK.1=Filmic
+option.SKIP_AA=Skip All Anti-Aliasing
+option.AA_STYLE=AA Style
+value.AA_STYLE.0=Stable
+value.AA_STYLE.1=Responsive
+
+option.VISUALIZE_DANGEROUS_LIGHT_LEVEL=Visualize Dangerous Light Level
+
+
+
+
+
+screen.ANTIALIASING=Anti-Aliasing
+screen.ATMOSPHERICS=Atmospherics
+screen.ATMOSPHERICS.comment=Godrays, clouds, and atmosphere
+screen.LIGHTING=Lighting
+screen.LIGHTING.comment=Lighting colors and intensities
+screen.SURFACE=Surface
+screen.SURFACE.comment=All about rendering of surfaces and textures
+screen.RAYTRACING=Raytracing
+screen.RAYTRACING.comment=Raytracing!
+screen.POSTPROCESSING=Post-Processing
+screen.POSTPROCESSING.comment=Color grading, motion blur, final presentation stuff.
+screen.UTILITY=Utility
+screen.UTILITY.comment=Gameplay utility stuff.
+screen.WATER=Water
